@@ -39,8 +39,8 @@ A deep learning–powered image captioning system that generates human-like desc
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/image-captioning
-cd image-captioning
+git clone https://github.com/Githubspruchir/Image-Captioner
+cd Image-Captioner
 ```
 
 ### 2. Install requirements
