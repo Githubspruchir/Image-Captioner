@@ -1,4 +1,4 @@
-Automated Image Captioning with InceptionV3 + LSTM (Flickr8k + Custom Dataset)
+#Automated Image Captioning with InceptionV3 + LSTM (Flickr8k + Custom Dataset)
 A deep learning–powered image captioning system that generates human-like descriptions for images using a CNN-LSTM architecture. Trained on 8,100+ images and 40,500 captions using TensorFlow/Keras, InceptionV3, GloVe embeddings, and beam search decoding.
 
 🚀 Features
@@ -39,8 +39,8 @@ python captioning.py --train
 
 Predict from CLI
 python captioning.py --predict
-# Enter image path when prompted
+Enter image path when prompted
 
 Run Web App
 python app.py
-# Visit http://127.0.0.1:5000
+Visit http://127.0.0.1:5000
